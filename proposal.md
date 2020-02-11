@@ -4,7 +4,7 @@
 Closely related to [Interaction Networks for Learning about Objects, Relations and Physics](https://arxiv.org/abs/1612.00222). There is a NeurISP talk online (Gorka please add link?)
 
   * [Deep Learning for Symbolic Mathematics](https://arxiv.org/abs/1912.01412v1) Guillaume Lample, François Charton
-Symbolid integration and solving ODEs with seq2seq models (so called transformers?)
+Symbolid integration and solving ODEs with seq2seq models (i.e. transformers)
 
   * [Quantum Algorithms for Deep Convolutional Neural Networks](https://scirate.com/arxiv/1911.01117) , Iordanis Kerenidis, Jonas Landman, Anupam Prakash
 Quantum algorithm to "mimic" (?) convolutional NN, i.e. including non-linearity.
