@@ -15,3 +15,4 @@ Extension to the previous [Barren plateau result](https://arxiv.org/abs/1803.111
  * [Data re-uploading for a universal quantum classifier](https://quantum-journal.org/papers/q-2020-02-06-226/)
  Adrián Pérez-Salinas Alba Cervera-Lierta Elies Gil-Fuster, and José I. Latorre
 
+ * [Recurrent Neural Network Wavefunctions](https://arxiv.org/pdf/2002.02973.pdf)     Mohamed Hibat-Allah, Martin Ganahl, Lauren E. Hayward, Roger G. Melko, Juan Carrasquilla ;; Seems recurrent networks have reached the quantum community :-)
