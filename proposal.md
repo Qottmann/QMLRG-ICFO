@@ -3,10 +3,6 @@
   * [Learning Symbolic Physics with Graph Networks](https://arxiv.org/abs/1909.05862)
 Closely related to [Interaction Networks for Learning about Objects, Relations and Physics](https://arxiv.org/abs/1612.00222). See also [NeurIPS talk](https://slideslive.com/38922576/learning-symbolic-physics-with-graph-networks)
 
-  * [Deep Learning for Symbolic Mathematics](https://arxiv.org/abs/1912.01412v1) Guillaume Lample, François Charton
-Symbolid integration and solving ODEs with seq2seq models (i.e. transformers). Introductory web articles [1](https://towardsdatascience.com/transformers-141e32e69591) & [2](https://towardsdatascience.com/day-1-2-attention-seq2seq-models-65df3f49e263) as well as a nice [demonstration of its capabilities (w/ critical assessment)](https://thegradient.pub/gpt2-and-the-nature-of-intelligence/)
-
-
   * [Quantum Algorithms for Deep Convolutional Neural Networks](https://scirate.com/arxiv/1911.01117) , Iordanis Kerenidis, Jonas Landman, Anupam Prakash
 Quantum algorithm to "mimic" (?) convolutional NN, i.e. including non-linearity.
 
@@ -17,3 +13,8 @@ Extension to the previous [Barren plateau result](https://arxiv.org/abs/1803.111
  Adrián Pérez-Salinas Alba Cervera-Lierta Elies Gil-Fuster, and José I. Latorre
 
  * [Recurrent Neural Network Wavefunctions](https://arxiv.org/pdf/2002.02973.pdf)     Mohamed Hibat-Allah, Martin Ganahl, Lauren E. Hayward, Roger G. Melko, Juan Carrasquilla ;; Seems recurrent networks have reached the quantum community :-)
+ 
+ ## Archive
+ 
+  * [Deep Learning for Symbolic Mathematics](https://arxiv.org/abs/1912.01412v1) Guillaume Lample, François Charton
+Symbolid integration and solving ODEs with seq2seq models (i.e. transformers). Introductory web articles [1](https://towardsdatascience.com/transformers-141e32e69591) & [2](https://towardsdatascience.com/day-1-2-attention-seq2seq-models-65df3f49e263) as well as a nice [demonstration of its capabilities (w/ critical assessment)](https://thegradient.pub/gpt2-and-the-nature-of-intelligence/)
