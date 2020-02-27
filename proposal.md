@@ -14,6 +14,10 @@ Extension to the previous [Barren plateau result](https://arxiv.org/abs/1803.111
 
  * [Recurrent Neural Network Wavefunctions](https://arxiv.org/pdf/2002.02973.pdf)     Mohamed Hibat-Allah, Martin Ganahl, Lauren E. Hayward, Roger G. Melko, Juan Carrasquilla ;; Seems recurrent networks have reached the quantum community :-)
  
+ * [The Lottery Ticket Hypothesis: finding sparse,trainable neural networks](https://arxiv.org/pdf/1803.03635.pdf) 
+ Jonathan Frankle, Michael Carbin
+ Who will win the lottery next week?
+ 
  ## Archive
  
   * [Deep Learning for Symbolic Mathematics](https://arxiv.org/abs/1912.01412v1) Guillaume Lample, François Charton
