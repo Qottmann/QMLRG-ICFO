@@ -23,3 +23,4 @@ Symbolid integration and solving ODEs with seq2seq models (i.e. transformers). I
  * [The Lottery Ticket Hypothesis: finding sparse,trainable neural networks](https://arxiv.org/pdf/1803.03635.pdf) 
  Jonathan Frankle, Michael Carbin
  Who will win the lottery next week?
+ * [The Break-Even Point on Optimization Trajectories of Deep Neural Networks](https://arxiv.org/abs/2002.09572) also maybe see [here on twitter](https://twitter.com/stanislavfort/status/1232378173993578496)
