@@ -7,7 +7,9 @@ Closely related to [Interaction Networks for Learning about Objects, Relations a
 Quantum algorithm to "mimic" (?) convolutional NN, i.e. including non-linearity.
 
   * [Cost-Function-Dependent Barren Plateaus in Shallow Quantum Neural Networks](https://scirate.com/arxiv/2001.00550)     M. Cerezo, Akira Sone, Tyler Volkoff, Lukasz Cincio, Patrick J. Coles
-Extension to the previous [Barren plateau result](https://arxiv.org/abs/1803.11173). Essentially all QNN (i.e. including shallow ones) suffer from Barren plteaus (BP) when using non-local/global cost functions. Details for deep (BP), intermediate and shallow (trainable) circuits with local cost functions.
+Extension to the previous [Barren plateau result](https://arxiv.org/abs/1803.11173). Essentially all QNN (i.e. including shallow ones) suffer from Barren plteaus (BP) when using non-local/global cost functions. Details for deep (BP), intermediate and shallow (trainable) circuits with local cost functions.  
+
+  * [Variational Quantum State Eigensolver](https://scirate.com/arxiv/2004.01372)      M. Cerezo, Kunal Sharma, Andrew Arrasmith, Patrick J. Coles, what the title says + discussion of local vs global cost function and adaptive protocol. 
 
  * [Recurrent Neural Network Wavefunctions](https://arxiv.org/pdf/2002.02973.pdf)     Mohamed Hibat-Allah, Martin Ganahl, Lauren E. Hayward, Roger G. Melko, Juan Carrasquilla
  * [Variational Quantum Fidelity Estimation](https://quantum-journal.org/papers/q-2020-03-26-248/) Marco Cerezo, Alexander Poremba, Lukasz Cincio, and Patrick J. Coles, with example of detecting phase transitions
