@@ -16,13 +16,16 @@ Extension to the previous [Barren plateau result](https://arxiv.org/abs/1803.111
  
  ## Archive
  
+ * [Introduction to convex optimization](https://docs.google.com/presentation/d/1gLOEmvmE4PtXSjOV9EUj1ocedHKz7CE_VV9kM3HAh6M/edit?usp=sharing) and a [link to the talk](https://web.microsoftstream.com/video/70f75efc-9e28-4b5a-aa33-1169d2a31955) with some other sources of SDP applications in quantum info [here](https://sites.google.com/site/jamiesikora/teaching/semidefinite-programming-quantum-information) and [here](https://cs.uwaterloo.ca/~watrous/CS867.Winter2017/)
+ 
   * [Deep Learning for Symbolic Mathematics](https://arxiv.org/abs/1912.01412v1) Guillaume Lample, François Charton
 Symbolid integration and solving ODEs with seq2seq models (i.e. transformers). Introductory web articles [1](https://towardsdatascience.com/transformers-141e32e69591) & [2](https://towardsdatascience.com/day-1-2-attention-seq2seq-models-65df3f49e263) as well as a nice [demonstration of its capabilities (w/ critical assessment)](https://thegradient.pub/gpt2-and-the-nature-of-intelligence/)
 
  * [Data re-uploading for a universal quantum classifier](https://quantum-journal.org/papers/q-2020-02-06-226/)
  Adrián Pérez-Salinas Alba Cervera-Lierta Elies Gil-Fuster, and José I. Latorre
 
- * [The Lottery Ticket Hypothesis: finding sparse,trainable neural networks](https://arxiv.org/pdf/1803.03635.pdf) 
+ * [The Lottery Ticket Hypothesis: finding sparse, trainable neural networks](https://arxiv.org/pdf/1803.03635.pdf) 
  Jonathan Frankle, Michael Carbin
  Who will win the lottery next week?
+ 
  * [The Break-Even Point on Optimization Trajectories of Deep Neural Networks](https://arxiv.org/abs/2002.09572) also maybe see [here on twitter](https://twitter.com/stanislavfort/status/1232378173993578496)
