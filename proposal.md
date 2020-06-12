@@ -16,7 +16,7 @@ Extension to the previous [Barren plateau result](https://arxiv.org/abs/1803.111
  
  ## Archive
  
- * [Introduction to convex optimization](https://docs.google.com/presentation/d/1gLOEmvmE4PtXSjOV9EUj1ocedHKz7CE_VV9kM3HAh6M/edit?usp=sharing) and a [link to the talk](https://web.microsoftstream.com/video/70f75efc-9e28-4b5a-aa33-1169d2a31955) with some other sources of SDP applications in quantum info [here](https://sites.google.com/site/jamiesikora/teaching/semidefinite-programming-quantum-information) and [here](https://cs.uwaterloo.ca/~watrous/CS867.Winter2017/)
+ * [Introduction to convex optimization](https://docs.google.com/presentation/d/1gLOEmvmE4PtXSjOV9EUj1ocedHKz7CE_VV9kM3HAh6M/edit?usp=sharing) and a [link to the talk](https://web.microsoftstream.com/video/70f75efc-9e28-4b5a-aa33-1169d2a31955) with some other sources of convex optimizaiton [here](http://www.csc.kth.se/utbildning/kth/kurser/DD3364/Lectures/KKT.pdf) and SDP applications in quantum info [here](https://sites.google.com/site/jamiesikora/teaching/semidefinite-programming-quantum-information) and [here](https://cs.uwaterloo.ca/~watrous/CS867.Winter2017/)
  
   * [Deep Learning for Symbolic Mathematics](https://arxiv.org/abs/1912.01412v1) Guillaume Lample, François Charton
 Symbolid integration and solving ODEs with seq2seq models (i.e. transformers). Introductory web articles [1](https://towardsdatascience.com/transformers-141e32e69591) & [2](https://towardsdatascience.com/day-1-2-attention-seq2seq-models-65df3f49e263) as well as a nice [demonstration of its capabilities (w/ critical assessment)](https://thegradient.pub/gpt2-and-the-nature-of-intelligence/)
