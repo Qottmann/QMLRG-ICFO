@@ -1,18 +1,22 @@
 # Proposed Reading / Presentations
-## 2020 Winter
+## 2020 Summer
   * [Learning Symbolic Physics with Graph Networks](https://arxiv.org/abs/1909.05862)
 Closely related to [Interaction Networks for Learning about Objects, Relations and Physics](https://arxiv.org/abs/1612.00222). See also [NeurIPS talk](https://slideslive.com/38922576/learning-symbolic-physics-with-graph-networks)
 
   * [Quantum Algorithms for Deep Convolutional Neural Networks](https://scirate.com/arxiv/1911.01117) , Iordanis Kerenidis, Jonas Landman, Anupam Prakash
 Quantum algorithm to "mimic" (?) convolutional NN, i.e. including non-linearity.
 
-  * [Cost-Function-Dependent Barren Plateaus in Shallow Quantum Neural Networks](https://scirate.com/arxiv/2001.00550)     M. Cerezo, Akira Sone, Tyler Volkoff, Lukasz Cincio, Patrick J. Coles
-Extension to the previous [Barren plateau result](https://arxiv.org/abs/1803.11173). Essentially all QNN (i.e. including shallow ones) suffer from Barren plteaus (BP) when using non-local/global cost functions. Details for deep (BP), intermediate and shallow (trainable) circuits with local cost functions.  
-
-  * [Variational Quantum State Eigensolver](https://scirate.com/arxiv/2004.01372)      M. Cerezo, Kunal Sharma, Andrew Arrasmith, Patrick J. Coles, what the title says + discussion of local vs global cost function and adaptive protocol. 
-
  * [Recurrent Neural Network Wavefunctions](https://arxiv.org/pdf/2002.02973.pdf)     Mohamed Hibat-Allah, Martin Ganahl, Lauren E. Hayward, Roger G. Melko, Juan Carrasquilla
+ 
  * [Variational Quantum Fidelity Estimation](https://quantum-journal.org/papers/q-2020-03-26-248/) Marco Cerezo, Alexander Poremba, Lukasz Cincio, and Patrick J. Coles, with example of detecting phase transitions
+ 
+ * [Predicting Many Properties from very few Measurements](https://arxiv.org/abs/2002.08953)
+ 
+ * General review of [Gaussian Boson Sampling](https://arxiv.org/abs/1612.01199)
+ 
+ * Extensive session of NN quantum states with RBM and RNN ansatz, make connection to QMC.
+ 
+ * Where does non-linearity in QNN come from? In this [paper](https://arxiv.org/pdf/1912.12486.pdf) just before Eq. 14 they show a concept of how measurement and conditional operation can commute. This is also described in Nielsen and Chuang in the Measurement section. 
  
  ## Archive
  
@@ -29,3 +33,8 @@ Symbolid integration and solving ODEs with seq2seq models (i.e. transformers). I
  Who will win the lottery next week?
  
  * [The Break-Even Point on Optimization Trajectories of Deep Neural Networks](https://arxiv.org/abs/2002.09572) also maybe see [here on twitter](https://twitter.com/stanislavfort/status/1232378173993578496)
+ 
+ * [Variational Quantum State Eigensolver](https://scirate.com/arxiv/2004.01372)      M. Cerezo, Kunal Sharma, Andrew Arrasmith, Patrick J. Coles, what the title says + discussion of local vs global cost function and adaptive protocol. 
+ 
+   * [Cost-Function-Dependent Barren Plateaus in Shallow Quantum Neural Networks](https://scirate.com/arxiv/2001.00550)     M. Cerezo, Akira Sone, Tyler Volkoff, Lukasz Cincio, Patrick J. Coles
+Extension to the previous [Barren plateau result](https://arxiv.org/abs/1803.11173). Essentially all QNN (i.e. including shallow ones) suffer from Barren plteaus (BP) when using non-local/global cost functions. Details for deep (BP), intermediate and shallow (trainable) circuits with local cost functions.  
